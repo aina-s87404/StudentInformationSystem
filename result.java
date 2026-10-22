@@ -20,6 +20,7 @@ public class result{
         int y = 30;
         int total = x+y;
         System.out.println("Total mark is: "+ total);
+        System.out.println("Good");
         
     }
     
