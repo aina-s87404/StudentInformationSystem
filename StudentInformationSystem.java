@@ -16,10 +16,7 @@ public class StudentInformationSystem {
     public static void main(String[] args) {
         System.out.println("Student Name: Aina Hadirah");
         System.out.println("Student ID: S87404");
-        int x=70;
-        int y=89; 
-        int total = x+y;
-        System.out.println("Total mark is:" + total);
+        
     }
     
 }
